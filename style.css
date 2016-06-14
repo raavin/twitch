@@ -9,11 +9,6 @@ body .header {
 
 body .twitch-logo{
 	height: 40px;
-	/*-webkit-filter: invert(100%);
-    -o-filter: invert(100%);
-    -moz-filter: invert(100%);
-    -ms-filter: invert(100%);
-    filter: invert(100%);*/
 }
 }
 
@@ -55,6 +50,7 @@ body {
 	padding-left: 200px;
 	min-height: 170px;
 	max-height: 170px;
+	/*min-width: 420px;*/
 }
 
 .card h3{
@@ -87,20 +83,6 @@ h1 {
 	font-weight: 300;
 	font-size: 30px;
 	padding-left: 20px;
-}
-
-#freecodecamp {
-	
-	background-image: url("https://static-cdn.jtvnw.net/jtv_user_pictures/freecodecamp-profile_image-d9514f2df0962329-300x300.png");
-	background-repeat: no-repeat;
-	background-size: contain;
-}
-
-#brianamarie {
-	
-	background-image: url("https://static-cdn.jtvnw.net/jtv_user_pictures/brianamarie132-profile_image-35c9908a7a958b62-300x300.jpeg");
-	background-repeat: no-repeat;
-	background-size: contain;
 }
 
 .twitch-logo{
