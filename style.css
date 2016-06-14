@@ -43,7 +43,7 @@ body {
 	font-size: 40px;
 }
 
-.card {
+div.card {
 	margin: 7px;
 	border-radius: 0;
 	background-color: #fff;
