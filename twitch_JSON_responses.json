@@ -1,0 +1,16 @@
+
+//https://api.twitch.tv/kraken/streams/brunofin
+{
+"error": "Unprocessable Entity",
+"message": "Channel 'brunofin' is unavailable",
+"status": 422
+}
+
+//https://api.twitch.tv/kraken/streams/ISeptimusI
+{
+"stream": null,
+	"_links": {
+		"self": "https://api.twitch.tv/kraken/streams/ISeptimusI",
+		"channel": "https://api.twitch.tv/kraken/channels/ISeptimusI"
+	}
+}

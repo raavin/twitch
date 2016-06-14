@@ -44,7 +44,7 @@ body {
 }
 
 div.card {
-	margin: 7px;
+	margin: 7px -6px 7px -9px;
 	border-radius: 0;
 	background-color: #fff;
 	padding-left: 200px;
@@ -53,20 +53,20 @@ div.card {
 	/*min-width: 420px;*/
 }
 
-.card h3{
+div.card h3{
 	font-size: 	20px;
 	font-weight: 	800;
 }
 
-.card p{
+div.card p{
 	font-size: 	13px;
 }
 
-.card p a{
+div.card p a{
 	font-size: 	13px;
 }
 
-.card:hover {
+div.card:hover {
 	
 	border: 4px ease;
 	border-color: #fff;
@@ -106,7 +106,7 @@ h1 {
 .caption img{
 	position: absolute;
 	bottom: 8px;
-	left: 8px;
+	left: 7px;
 	width: 168px;
 	height: 168px;
 	background-color: gray;
